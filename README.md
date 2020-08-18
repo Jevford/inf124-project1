@@ -36,8 +36,7 @@ That is, you will have two applications:**
 ## Authors
 Group 21: Jevford Barro (72114221), Peter Tang (45193375), Derek Tran (18491795)
 
-## Project Status
-- [x] [PA 1: Building a dynamic website using HTML, JavaScript, and CSS](docs/pa1.md)
-- [x] [PA 2: Building a web application using PHP, Ajax, and MySQL](docs/pa2.md) 
-- [X] [PA 3: Building a web application using Java Servlets](docs/pa3.md)
-- [x] PA 4: Building a web application using JSP and RESTful web services 
+## Screenshots
+<img src="petrware.gif" width="250px">
+<img src="landingpage.png" width="250px">
+<img src="checkout.png" width="250px">
