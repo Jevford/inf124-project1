@@ -37,6 +37,6 @@ That is, you will have two applications:**
 Group 21: Jevford Barro (72114221), Peter Tang (45193375), Derek Tran (18491795)
 
 ## Screenshots
-<img src="petrware.gif" width="250px">
-<img src="landingpage.png" width="250px">
-<img src="checkout.png" width="250px">
+<img src="petrware.gif" width="450px">
+<img src="landingpage.png" width="450px">
+<img src="checkout.png" width="450px">
